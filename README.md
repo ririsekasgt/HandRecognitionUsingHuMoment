@@ -10,3 +10,5 @@ NOTE:<br>
 
 But,<br>
 If you want to use mine, <b>download all files except datastore.py</b>
+
+https://www.linkedin.com/in/riris-eka-sagita-217077148/
