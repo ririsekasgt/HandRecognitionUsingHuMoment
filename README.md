@@ -1,7 +1,7 @@
 # HandRecognitionUsingHuMoment
 This program is used to detect hand gesture using Hu Moment Invariant Method and Euclidean Distance Classifier, which the final result is open an application on computer. 
 
-this code is in Python languange using OpenCV
+this code is in Python languange using OpenCV library
 
 NOTE:<br>
 1. If you want to make data train files by yourself, go to <b>datastore.py</b><br>
